@@ -1,0 +1,334 @@
+* text=auto !eol
+/AUTHORS -text
+/CHANGES -text
+/LICENSE -text
+/Makefile -text
+/README -text
+build/tools/COPYING -text
+build/tools/README -text
+build/tools/closure-compiler.jar -text
+build/tools/ship.py -text
+build/tools/yuicompressor.jar -text
+chrome-app/icon_128.png -text
+chrome-app/manifest.json -text
+clipart/moon.svg -text svneol=unset#image/svg%2Bxml
+clipart/star.svg -text svneol=unset#image/svg%2Bxml
+clipart/sun.svg -text svneol=unset#image/svg%2Bxml
+docs/files/svgcanvas-js.html -text svneol=unset#text/html
+docs/index.html -text svneol=unset#text/html
+docs/index/Files.html -text svneol=unset#text/html
+docs/index/Functions.html -text svneol=unset#text/html
+docs/index/General.html -text svneol=unset#text/html
+docs/javascript/main.js -text svneol=unset#text/javascript
+docs/javascript/searchdata.js -text svneol=unset#text/javascript
+docs/search/FilesS.html -text svneol=unset#text/html
+docs/search/FunctionsA.html -text
+docs/search/FunctionsC.html -text svneol=unset#text/html
+docs/search/FunctionsD.html -text svneol=unset#text/html
+docs/search/FunctionsG.html -text svneol=unset#text/html
+docs/search/FunctionsM.html -text
+docs/search/FunctionsO.html -text
+docs/search/FunctionsR.html -text
+docs/search/FunctionsS.html -text svneol=unset#text/html
+docs/search/GeneralA.html -text
+docs/search/GeneralC.html -text svneol=unset#text/html
+docs/search/GeneralD.html -text svneol=unset#text/html
+docs/search/GeneralF.html -text svneol=unset#text/html
+docs/search/GeneralG.html -text svneol=unset#text/html
+docs/search/GeneralL.html -text
+docs/search/GeneralM.html -text
+docs/search/GeneralO.html -text
+docs/search/GeneralR.html -text
+docs/search/GeneralS.html -text svneol=unset#text/html
+docs/search/NoResults.html -text svneol=unset#text/html
+docs/styles/main.css -text svneol=unset#text/css
+editor/browser-not-supported.html -text svneol=unset#text/html
+editor/browser.js -text svneol=unset#text/javascript
+editor/canvg/canvg.js -text
+editor/canvg/rgbcolor.js -text
+editor/config-sample.js -text
+editor/contextmenu.js -text
+editor/contextmenu/jquery.contextMenu.js -text svneol=unset#text/javascript
+editor/coords.js -text
+editor/draw.js -text svneol=unset#text/javascript
+editor/embedapi.html -text svneol=unset#text/html
+editor/embedapi.js -text svneol=unset#text/javascript
+editor/extensions/allowedMimeTypes.php -text
+editor/extensions/closepath_icons.svg -text svneol=unset#image/svg%2Bxml
+editor/extensions/ext-arrows.js -text
+editor/extensions/ext-closepath.js -text
+editor/extensions/ext-connector.js -text
+editor/extensions/ext-eyedropper.js -text
+editor/extensions/ext-foreignobject.js -text
+editor/extensions/ext-grid.js -text
+editor/extensions/ext-helloworld.js -text
+editor/extensions/ext-imagelib.js -text
+editor/extensions/ext-imagelib.xml -text svneol=unset#image/svg%2Bxml
+editor/extensions/ext-markers.js -text
+editor/extensions/ext-mathjax.js -text
+editor/extensions/ext-overview_window.js -text
+editor/extensions/ext-panning.js -text
+editor/extensions/ext-panning.xml -text
+editor/extensions/ext-php_savefile.js -text
+editor/extensions/ext-polygon.js -text
+editor/extensions/ext-server_moinsave.js -text
+editor/extensions/ext-server_opensave.js -text
+editor/extensions/ext-shapes.js -text
+editor/extensions/ext-shapes.xml -text svneol=unset#image/svg%2Bxml
+editor/extensions/ext-star.js -text
+editor/extensions/ext-storage.js -text
+editor/extensions/ext-webappfind.js -text
+editor/extensions/ext-xdomain-messaging.js -text
+editor/extensions/eyedropper-icon.xml -text svneol=unset#image/svg%2Bxml
+editor/extensions/eyedropper.png -text svneol=unset#image/png
+editor/extensions/fileopen.php -text
+editor/extensions/filesave.php -text
+editor/extensions/foreignobject-icons.xml -text svneol=unset#image/svg%2Bxml
+editor/extensions/grid-icon.xml -text svneol=unset#image/svg%2Bxml
+editor/extensions/helloworld-icon.xml -text svneol=unset#image/svg%2Bxml
+editor/extensions/imagelib/index.html -text svneol=unset#text/html
+editor/extensions/imagelib/smiley.svg -text svneol=unset#image/svg%2Bxml
+editor/extensions/markers-icons.xml -text svneol=unset#image/svg%2Bxml
+editor/extensions/mathjax-icons.xml -text
+editor/extensions/polygon-icons.svg -text
+editor/extensions/savefile.php -text
+editor/extensions/shapelib/animal.json -text
+editor/extensions/shapelib/arrow.json -text
+editor/extensions/shapelib/dialog_balloon.json -text
+editor/extensions/shapelib/electronics.json -text
+editor/extensions/shapelib/flowchart.json -text
+editor/extensions/shapelib/game.json -text
+editor/extensions/shapelib/math.json -text
+editor/extensions/shapelib/misc.json -text
+editor/extensions/shapelib/music.json -text
+editor/extensions/shapelib/object.json -text
+editor/extensions/shapelib/raphael.txt -text
+editor/extensions/shapelib/raphael_1.json -text
+editor/extensions/shapelib/raphael_2.json -text
+editor/extensions/shapelib/symbol.json -text
+editor/extensions/star-icons.svg -text
+editor/extensions/webappfind-icon.svg -text
+editor/history.js -text svneol=unset#text/javascript
+editor/images/README.txt -text
+editor/images/align-bottom.png -text svneol=unset#image/png
+editor/images/align-bottom.svg -text svneol=unset#image/svg%2Bxml
+editor/images/align-center.png -text svneol=unset#image/png
+editor/images/align-center.svg -text svneol=unset#image/svg%2Bxml
+editor/images/align-left.png -text svneol=unset#image/png
+editor/images/align-left.svg -text svneol=unset#image/svg%2Bxml
+editor/images/align-middle.png -text svneol=unset#image/png
+editor/images/align-middle.svg -text svneol=unset#image/svg%2Bxml
+editor/images/align-right.png -text svneol=unset#image/png
+editor/images/align-right.svg -text svneol=unset#image/svg%2Bxml
+editor/images/align-top.png -text svneol=unset#image/png
+editor/images/align-top.svg -text svneol=unset#image/svg%2Bxml
+editor/images/bold.png -text svneol=unset#image/png svnc_svg_003amime_002dtype=image%2Fpng
+editor/images/cancel.png -text svneol=unset#image/png
+editor/images/circle.png -text svneol=unset#image/png
+editor/images/clear.png -text svneol=unset#image/png
+editor/images/clone.png -text svneol=unset#image/png
+editor/images/conn.svg -text svneol=unset#image/svg%2Bxml
+editor/images/copy.png -text svneol=unset#image/png
+editor/images/cut.png -text svneol=unset#image/png
+editor/images/delete.png -text svneol=unset#image/png
+editor/images/document-properties.png -text svneol=unset#image/png
+editor/images/dropdown.gif -text svneol=unset#image/gif
+editor/images/ellipse.png -text svneol=unset#image/png
+editor/images/eye.png -text svneol=unset#image/png
+editor/images/fhpath.png -text svneol=unset#image/png
+editor/images/flyouth.png -text svneol=unset#image/png
+editor/images/flyup.gif -text svneol=unset#image/gif
+editor/images/freehand-circle.png -text svneol=unset#image/png
+editor/images/freehand-square.png -text svneol=unset#image/png
+editor/images/go-down.png -text svneol=unset#image/png
+editor/images/go-up.png -text svneol=unset#image/png
+editor/images/image.png -text svneol=unset#image/png
+editor/images/italic.png -text svneol=unset#image/png svnc_svg_003amime_002dtype=image%2Fpng
+editor/images/line.png -text svneol=unset#image/png
+editor/images/link_controls.png -text svneol=unset#image/png
+editor/images/logo.png -text svneol=unset#image/png
+editor/images/logo.svg -text svneol=unset#image/svg%2Bxml
+editor/images/move_bottom.png -text svneol=unset#image/png
+editor/images/move_top.png -text svneol=unset#image/png
+editor/images/node_clone.png -text svneol=unset#image/png
+editor/images/node_delete.png -text svneol=unset#image/png
+editor/images/none.png -text svneol=unset#image/png
+editor/images/open.png -text svneol=unset#image/png
+editor/images/paste.png -text svneol=unset#image/png
+editor/images/path.png -text svneol=unset#image/png
+editor/images/polygon.png -text svneol=unset#image/png
+editor/images/polygon.svg -text svneol=unset#image/svg%2Bxml
+editor/images/rect.png -text svneol=unset#image/png
+editor/images/redo.png -text svneol=unset#image/png
+editor/images/reorient.png -text svneol=unset#image/png
+editor/images/rotate.png -text svneol=unset#image/png
+editor/images/save.png -text svneol=unset#image/png
+editor/images/select.png -text svneol=unset#image/png
+editor/images/select_node.png -text svneol=unset#image/png
+editor/images/sep.png -text svneol=unset#image/png
+editor/images/shape_group_elements.png -text svneol=unset#image/png
+editor/images/shape_ungroup.png -text svneol=unset#image/png
+editor/images/source.png -text svneol=unset#image/png
+editor/images/spinbtn_updn_big.png -text svneol=unset#image/png
+editor/images/square.png -text svneol=unset#image/png
+editor/images/svg_edit_icons.svg -text svneol=unset#image/svg%2Bxml
+editor/images/svg_edit_icons.svgz -text svneol=unset#image/svg%2Bxml
+editor/images/text.png -text svneol=unset#image/png
+editor/images/text.svg -text svneol=unset#image/svg%2Bxml
+editor/images/to_path.png -text svneol=unset#image/png
+editor/images/undo.png -text svneol=unset#image/png
+editor/images/view-refresh.png -text svneol=unset#image/png
+editor/images/wave.png -text svneol=unset#image/png
+editor/images/wireframe.png -text svneol=unset#image/png
+editor/images/zoom.png -text svneol=unset#image/png
+editor/jgraduate/LICENSE -text
+editor/jgraduate/README -text
+editor/jgraduate/css/jPicker.css -text svneol=unset#text/css
+editor/jgraduate/css/jgraduate.css -text svneol=unset#text/css
+editor/jgraduate/images/AlphaBar.png -text svneol=unset#image/png
+editor/jgraduate/images/Bars.png -text svneol=unset#image/png
+editor/jgraduate/images/Maps.png -text svneol=unset#image/png
+editor/jgraduate/images/NoColor.png -text svneol=unset#image/png
+editor/jgraduate/images/bar-opacity.png -text svneol=unset#image/png
+editor/jgraduate/images/map-opacity.png -text svneol=unset#image/png
+editor/jgraduate/images/mappoint.gif -text svneol=unset#image/gif
+editor/jgraduate/images/mappoint_c.png -text svneol=unset#image/png
+editor/jgraduate/images/mappoint_f.png -text svneol=unset#image/png
+editor/jgraduate/images/picker.gif -text svneol=unset#image/gif
+editor/jgraduate/images/preview-opacity.png -text svneol=unset#image/png
+editor/jgraduate/images/rangearrows.gif -text svneol=unset#image/gif
+editor/jgraduate/images/rangearrows2.gif -text svneol=unset#image/gif
+editor/jgraduate/jpicker.js -text
+editor/jgraduate/jpicker.min.js -text svneol=unset#text/javascript
+editor/jgraduate/jquery.jgraduate.js -text svneol=unset#text/javascript
+editor/jgraduate/jquery.jgraduate.min.js -text svneol=unset#text/javascript
+editor/jquery-svg.js -text
+editor/jquery-ui/jquery-ui-1.8.17.custom.min.js -text
+editor/jquery-ui/jquery-ui-1.8.custom.min.js -text svneol=unset#text/javascript
+editor/jquery.js -text svneol=unset#text/javascript
+editor/jquerybbq/jquery.bbq.min.js -text svneol=unset#text/javascript
+editor/js-hotkeys/README.md -text
+editor/js-hotkeys/jquery.hotkeys.min.js -text svneol=unset#text/javascript
+editor/locale/README.txt -text
+editor/locale/lang.af.js -text svneol=unset#text/javascript
+editor/locale/lang.ar.js -text svneol=unset#text/javascript
+editor/locale/lang.az.js -text svneol=unset#text/javascript
+editor/locale/lang.be.js -text svneol=unset#text/javascript
+editor/locale/lang.bg.js -text svneol=unset#text/javascript
+editor/locale/lang.ca.js -text svneol=unset#text/javascript
+editor/locale/lang.cs.js -text svneol=unset#text/javascript
+editor/locale/lang.cy.js -text svneol=unset#text/javascript
+editor/locale/lang.da.js -text svneol=unset#text/javascript
+editor/locale/lang.de.js -text svneol=unset#text/javascript
+editor/locale/lang.el.js -text svneol=unset#text/javascript
+editor/locale/lang.en.js -text svneol=unset#text/javascript
+editor/locale/lang.es.js -text svneol=unset#text/javascript
+editor/locale/lang.et.js -text svneol=unset#text/javascript
+editor/locale/lang.fa.js -text svneol=unset#text/javascript
+editor/locale/lang.fi.js -text svneol=unset#text/javascript
+editor/locale/lang.fr.js -text svneol=unset#text/javascript
+editor/locale/lang.fy.js -text svneol=unset#text/javascript
+editor/locale/lang.ga.js -text svneol=unset#text/javascript
+editor/locale/lang.gl.js -text svneol=unset#text/javascript
+editor/locale/lang.he.js -text svneol=unset#text/javascript
+editor/locale/lang.hi.js -text svneol=unset#text/javascript
+editor/locale/lang.hr.js -text svneol=unset#text/javascript
+editor/locale/lang.hu.js -text svneol=unset#text/javascript
+editor/locale/lang.hy.js -text svneol=unset#text/javascript
+editor/locale/lang.id.js -text svneol=unset#text/javascript
+editor/locale/lang.is.js -text svneol=unset#text/javascript
+editor/locale/lang.it.js -text svneol=unset#text/javascript
+editor/locale/lang.ja.js -text svneol=unset#text/javascript
+editor/locale/lang.ko.js -text svneol=unset#text/javascript
+editor/locale/lang.lt.js -text svneol=unset#text/javascript
+editor/locale/lang.lv.js -text svneol=unset#text/javascript
+editor/locale/lang.mk.js -text svneol=unset#text/javascript
+editor/locale/lang.ms.js -text svneol=unset#text/javascript
+editor/locale/lang.mt.js -text svneol=unset#text/javascript
+editor/locale/lang.nl.js -text svneol=unset#text/javascript
+editor/locale/lang.no.js -text svneol=unset#text/javascript
+editor/locale/lang.pl.js -text svneol=unset#text/javascript
+editor/locale/lang.pt-BR.js -text svneol=unset#text/javascript
+editor/locale/lang.pt-PT.js -text svneol=unset#text/javascript
+editor/locale/lang.ro.js -text svneol=unset#text/javascript
+editor/locale/lang.ru.js -text svneol=unset#text/javascript
+editor/locale/lang.sk.js -text svneol=unset#text/javascript
+editor/locale/lang.sl.js -text svneol=unset#text/javascript
+editor/locale/lang.sq.js -text svneol=unset#text/javascript
+editor/locale/lang.sr.js -text svneol=unset#text/javascript
+editor/locale/lang.sv.js -text svneol=unset#text/javascript
+editor/locale/lang.sw.js -text svneol=unset#text/javascript
+editor/locale/lang.test.js -text svneol=unset#text/javascript
+editor/locale/lang.th.js -text svneol=unset#text/javascript
+editor/locale/lang.tl.js -text svneol=unset#text/javascript
+editor/locale/lang.tr.js -text svneol=unset#text/javascript
+editor/locale/lang.uk.js -text svneol=unset#text/javascript
+editor/locale/lang.vi.js -text svneol=unset#text/javascript
+editor/locale/lang.yi.js -text svneol=unset#text/javascript
+editor/locale/lang.zh-CN.js -text svneol=unset#text/javascript
+editor/locale/lang.zh-HK.js -text svneol=unset#text/javascript
+editor/locale/lang.zh-TW.js -text svneol=unset#text/javascript
+editor/locale/locale.js -text svneol=unset#text/javascript
+editor/math.js -text svneol=unset#text/javascript
+editor/path.js -text svneol=unset#text/javascript
+editor/recalculate.js -text
+editor/sanitize.js -text svneol=unset#text/javascript
+editor/select.js -text svneol=unset#text/javascript
+editor/spinbtn/JQuerySpinBtn.css -text svneol=unset#text/css
+editor/spinbtn/JQuerySpinBtn.js -text svneol=unset#text/javascript
+editor/spinbtn/JQuerySpinBtn.min.js -text svneol=unset#text/javascript
+editor/spinbtn/spinbtn_updn.png -text svneol=unset#image/png
+editor/svg-editor.css -text svneol=unset#text/css
+editor/svg-editor.html -text svneol=unset#text/html
+editor/svg-editor.js -text svneol=unset#text/javascript svn_keywords=Rev
+editor/svg-editor.manifest -text svneol=unset#text/cache-manifest
+editor/svgcanvas.js -text svneol=unset#text/javascript svn_keywords=Rev
+editor/svgedit.js -text
+editor/svgicons/jquery.svgicons.js -text svneol=unset#text/javascript
+editor/svgtransformlist.js -text svneol=unset#text/javascript
+editor/svgutils.js -text svneol=unset#text/javascript
+editor/touch.js -text
+editor/units.js -text svneol=unset#text/javascript
+examples/arbelos.svg -text svneol=unset#image/svg%2Bxml
+examples/mickey.svg -text svneol=unset#image/svg%2Bxml
+extras/tojson.py -text
+extras/topo.py -text
+extras/update-langs.py -text
+firefox-extension/chrome.manifest -text
+firefox-extension/content/svg-edit-overlay.css -text
+firefox-extension/content/svg-edit-overlay.js -text
+firefox-extension/content/svg-edit-overlay.xul -text
+firefox-extension/handlers.js -text
+firefox-extension/install.rdf -text
+opera-widget/config.xml -text
+opera-widget/handlers.js -text
+opera-widget/index.html -text
+opera-widget/style.css -text svneol=unset#text/css
+screencasts/svgedit-screencast-1.txt -text
+screencasts/svgedit-screencast-2.txt -text
+screencasts/svgedit-screencast-3.txt -text
+screencasts/svgopen2010/index.html -text svneol=unset#text/html
+screencasts/svgopen2010/logo.svg -text svneol=unset#image/svg%2Bxml
+screencasts/svgopen2010/script.js -text svneol=unset#text/javascript
+screencasts/svgopen2010/style.css -text svneol=unset#text/css
+test/all_tests.html -text svneol=unset#text/html
+test/contextmenu_test.html -text svneol=unset#text/html
+test/coords_test.html -text svneol=unset#text/html
+test/draw_test.html -text svneol=unset#text/html
+test/history_test.html -text svneol=unset#text/html
+test/jquery-svg_test.html -text svneol=unset#text/html
+test/math_test.html -text svneol=unset#text/html
+test/path_test.html -text svneol=unset#text/html
+test/qunit/qunit.css -text svneol=unset#text/css
+test/qunit/qunit.js -text
+test/recalculate_test.html -text svneol=unset#text/html
+test/sanitize_test.html -text svneol=unset#text/html
+test/select_test.html -text svneol=unset#text/html
+test/svgtransformlist_test.html -text svneol=unset#text/html
+test/svgutils_test.html -text svneol=unset#text/html
+test/test1.html -text svneol=unset#text/html
+test/units_test.html -text svneol=unset#text/html
+wave/json2.js -text
+wave/manifest.xml -text
+wave/svg-edit.xml -text svneol=unset#text/xml
+wave/wave.js -text
